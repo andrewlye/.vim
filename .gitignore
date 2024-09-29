@@ -1,4 +1,5 @@
-plugged/*
-colors/*
-backup/*
-autoload/*
+plugged/
+colors/
+backup/
+autoload/
+.netrwhist
